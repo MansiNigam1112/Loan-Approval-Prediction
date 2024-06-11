@@ -1,1 +1,3 @@
 # Loan-Approval-Prediction
+
+This project focuses on analyzing and classifying loan data to predict loan approval. It involves extensive data cleaning, handling missing values, and creating new features like TotalIncome and its logarithmic transformation. Data visualizations are produced using matplotlib and seaborn to explore relationships and distributions. Machine learning models, including Random Forest, Decision Tree, and K-Nearest Neighbors classifiers, are employed to predict loan approval. Accuracy metrics are calculated for each model, providing insights into their performance in predicting loan approval outcomes.
